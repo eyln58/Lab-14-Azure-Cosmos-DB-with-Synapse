@@ -1,0 +1,1 @@
+# Lab-14-Azure-Cosmos-DB-with-Synapse
